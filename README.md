@@ -11,7 +11,7 @@ A simple program that generates a random fortune and a lucky number for the user
 ### 2. Number Guessing Game
 A fun and interactive game where the player attempts to guess a randomly generated number between 1 and 50. Each incorrect guess prompts feedback, helping the player home in on the correct number while counting their attempts.
 
-**Features: **
+**Features:**
 - Randomly generates a target number between 1 and 50.
 - Provides feedback if the guess is too high or too low.
 - Tracks the number of attempts.
